@@ -1,0 +1,104 @@
+[
+    {
+        "error": "tie",
+        "suggestion": "Ty",
+        "mp4_timestamp": 79,
+        "previous": {
+            "vtt_timestamp": "1:12",
+            "utterance": "That's so I guess the the next." 
+        },
+        "current": {
+            "vtt_timestamp": "1:16",
+            "utterance": "So it looks like tie put in some folks, it looks like this looks good."
+        },
+        "next": {
+            "vtt_timestamp": "1:19",
+            "utterance": "So that let's see need support from GTM teams."
+        }
+    },
+    {
+        "error": "Coup Con",
+        "suggestion": "KubeCon",
+        "mp4_timestamp": 170,
+        "previous": {
+            "vtt_timestamp": "2:42",
+            "utterance": "So I'm just trying to catch up with the thread." 
+        },
+        "current": {
+            "vtt_timestamp": "2:50",
+            "utterance": "So it looks like maybe a platform on Reinvent, CICD on Google Next and get OPS on Coup Con."
+        },
+        "next": {
+            "vtt_timestamp": "2:58",
+            "utterance": "Does that sound right?"
+        }
+    },
+    {
+        "error": "Saumya",
+        "suggestion": "Soumya",
+        "mp4_timestamp": 224,
+        "previous": {
+            "vtt_timestamp": "3:39",
+            "utterance": "so that just so that they can get that that event support." 
+        },
+        "current": {
+            "vtt_timestamp": "3:44",
+            "utterance": "But that looks good and I appreciate thanks for the link to Saumya on the rolls product announcements."
+        },
+        "next": {
+            "vtt_timestamp": "3:55",
+            "utterance": "So I appreciate Brian for adding this."
+        }
+    },
+    {
+        "error": "Kid Sid",
+        "suggestion": "Sid Sijbrandij",
+        "mp4_timestamp": 890,
+        "previous": {
+            "vtt_timestamp": "14:48",
+            "utterance": "Are we dovetailing this with that?"
+        },
+        "current": {
+            "vtt_timestamp": "14:50",
+            "utterance": "So, so this is exactly where this is headed to is the idea that during the product keynote and then ideally during Kid Sid's keynote as well, that there's some level of like an announcement that we make that then the press cares about that announcement."
+        },
+        "next": {
+            "vtt_timestamp": "15:09",
+            "utterance": "Again, really tough to do at GitLab because it's all been around for a while."
+        }
+    },
+    {
+        "error": "Nope",
+        "suggestion": "Noopur",
+        "mp4_timestamp": 884,
+        "previous": {
+            "vtt_timestamp": "14:40",
+            "utterance": "We this one is APR driven to some degree."
+        },
+        "current": {
+            "vtt_timestamp": "14:44",
+            "utterance": "What about like the Nope and Christie's product keynote at commit?"
+        },
+        "next": {
+            "vtt_timestamp": "14:48",
+            "utterance": "Are we dovetailing this with that?"
+        }
+    },
+    {
+        "error": "Christie",
+        "suggestion": "Christie Lenneville",
+        "mp4_timestamp": 884,
+        "previous": {
+            "vtt_timestamp": "14:40",
+            "utterance": "We this one is APR driven to some degree."
+        },
+        "current": {
+            "vtt_timestamp": "14:44",
+            "utterance": "What about like the Nope and Christie's product keynote at commit?"
+        },
+        "next": {
+            "vtt_timestamp": "14:48",
+            "utterance": "Are we dovetailing this with that?"
+        }
+    }
+]
